@@ -1,1 +1,6 @@
-hello file~
+华为，huawei
+小米，xiaomi
+东风，dongfeng
+西方,xifang
+紫禁城，zijincheng
+圣诞节，shengfanjie

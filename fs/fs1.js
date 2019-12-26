@@ -5,5 +5,6 @@ fs.readFile(__dirname + '/test/t1.txt', {flag: 'r+', encoding: 'utf8'}, function
 	if (err) {
 		console.log('err', err);
 	}
-  console.log('data : ', fd);
+	const array = fd.split('\n');
+  console.log(JSON.stringify(array));
 });
