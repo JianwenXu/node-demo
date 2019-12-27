@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/JianwenXu/node-demo#readme",
   "dependencies": {
+    "iconv-lite": "^0.5.0",
     "node-xlsx": "^0.15.0",
     "shelljs": "^0.8.3"
   }
